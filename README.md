@@ -31,7 +31,14 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
   <a href="https://chat.whatsapp.com/FJZ00oZignw25kjLELXWKu" target="blank"><img align="center" src="https://i.imgur.com/URkrOnx.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Joshuva-ser/Njanvanuv2)
+
+. You will have to fork this git to deploy via Heroku.
+  click to fork the git into your account click this logo
+   
+Click [FORK](https://github.com/Joshuva-ser/Anjuserv2/fork)
+
+
+1. Now https://heroku.com/deploy?template=https://github.com/Joshuva-ser/Anjuserv2 copy this url and change Joshuvaser with your github username and click go<br>
 
 
 
